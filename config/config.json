@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "root",
+    "password": "kalamazoo123",
     "database": "project_fitness", 
     "host": "localhost",
     "port": 3306,
