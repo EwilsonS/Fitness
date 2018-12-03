@@ -21,7 +21,7 @@ Project fitness is a full stack node/mysql app designed for users to create work
 * Heroku
 
 ### Images
-![pj](public/fitness.jpg)
+![pj](public/images/fitness.jpg)
 
 ## Guest Login
 * email: guest@gmail.com
