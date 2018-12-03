@@ -2,9 +2,9 @@
 
 ## Guest Login
 * email: guest@gmail.com
-* password: 12345
+* password: 123456
 
-Project fitness is a full stack node/mysql app designed for users to create workouts and track progress.
+Project fitness is a full stack node/mysql app designed for users to create/share workouts and track progress.
 
 ### Under the hood
 * Node
