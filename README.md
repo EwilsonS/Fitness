@@ -1,8 +1,8 @@
 # [Project Fitness](https://young-hamlet-41284.herokuapp.com/)
 
-## Guest Login
+<!-- ## Guest Login
 * email: guest1@gmail.com
-* password: 123456
+* password: 123456 -->
 
 Project fitness is a full stack node/mysql app designed for users to create/share workouts and track progress.
 
